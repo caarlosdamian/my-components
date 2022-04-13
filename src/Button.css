@@ -1,0 +1,19 @@
+.button{
+    border: none;
+    color: white;
+    border-radius: 4px;
+    padding: 8px;
+}
+.primary{
+    background-color: rgb(1, 114, 170);
+}
+.secondary{
+    background-color: gray ;
+}
+.success{
+    background-color: rgb(2, 135, 42);
+}
+.warning{
+    background-color: rgb(237, 240, 47);
+    color: black;
+}
